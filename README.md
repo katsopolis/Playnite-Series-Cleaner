@@ -1,4 +1,4 @@
-# Playnite-SeriesCleaner
+# Playnite Series Cleaner
 
 ![Series Cleaner Icon](sources/icon.png)
 
