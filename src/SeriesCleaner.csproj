@@ -2,6 +2,12 @@
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
   <PropertyGroup>
+    <IsPackable>false</IsPackable>
+    <Authors>Gazi Enes Sedef</Authors>
+    <Company>Lorewound</Company>
+    <Copyright>Copyright (c) Gazi Enes Sedef. All Rights Reserved.</Copyright>
+    <Authors>Gazi Enes Sedef</Authors>
+    <Company>Lorewound</Company>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{12345678-1234-1234-1234-123456789012}</ProjectGuid>

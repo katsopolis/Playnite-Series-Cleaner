@@ -1,4 +1,66 @@
+<!-- lorewound:standard:start -->
 # Playnite Series Cleaner
+
+<div align="center">
+  <img src="src/icon.png" alt="Playnite Series Cleaner logo" width="128" />
+  <p><strong>Playnite series metadata cleanup extension</strong></p>
+  <p>Created by Gazi Enes Sedef · Published by Lorewound</p>
+
+  ![Status](https://img.shields.io/badge/status-active-111827?style=flat-square)
+  ![Publisher](https://img.shields.io/badge/publisher-Lorewound-111827?style=flat-square)
+</div>
+
+## ◈ Overview
+
+Playnite Series Cleaner is a Windows-focused extension for normalizing and cleaning series metadata inside Playnite libraries. It reduces repetitive library maintenance while remaining compatible with Playnite's extension model.
+
+## ✦ Highlights
+
+- Series metadata normalization
+- Playnite library integration
+- Windows desktop workflow
+
+## ⬡ Technology
+
+- .NET / WPF
+
+## ▣ Platforms
+
+- Windows with Playnite
+
+## ▶ Getting Started
+
+```text
+Review the project-specific detailed documentation below
+```
+
+Use the versions recorded in the repository lockfiles and manifests. Secrets belong in ignored local environment files or the deployment platform's secret store; never place credentials in client code or commits.
+
+## ✓ Quality and Maintenance
+
+- Maintenance policy: [MAINTENANCE.md](MAINTENANCE.md)
+- Shared legal documentation: [Lorewound Legal Docs](https://github.com/katsopolis/Legal-Docs)
+- Repository: [https://github.com/katsopolis/Playnite-SeriesCleaner](https://github.com/katsopolis/Playnite-SeriesCleaner)
+
+## ◇ Ownership and Publishing
+
+| Role | Details |
+| --- | --- |
+| Creator and producer | Gazi Enes Sedef |
+| Publisher | Lorewound |
+| Contact | [support@lorewound.com](mailto:support@lorewound.com) |
+| Repository owner | [katsopolis](https://github.com/katsopolis) |
+
+## ⚖ License
+
+This project is proprietary and is not open source. No use, execution, copying, modification, distribution, hosting, or commercial exploitation is permitted without prior written permission. See [LICENSE](LICENSE). Third-party components and assets remain subject to their respective licenses.
+<!-- lorewound:standard:end -->
+
+---
+
+## ◆ Detailed Project Guide
+
+The maintained project summary above is canonical. The original detailed documentation is preserved below for implementation-specific guidance.
 
 ![Series Cleaner Icon](sources/icon.png)
 
@@ -47,4 +109,8 @@ The author is not responsible for accidental loss of metadata.
 
 ## 📃 License
 
-This project is released under the MIT License.
+This project is proprietary and is not open source. No use, execution, copying, modification, distribution, hosting, or commercial exploitation is permitted without prior written permission. See [LICENSE](LICENSE). Third-party components and assets remain subject to their respective licenses.
+
+## Operational documentation
+
+[Security policy](SECURITY.md)
